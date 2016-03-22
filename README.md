@@ -1,3 +1,3 @@
 # todo
 
-https://github.com/kosomi/todo/blob/master/todo.png
+<img src='https://github.com/kosomi/todo/blob/master/todo.png'>
